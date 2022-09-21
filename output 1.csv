@@ -1,0 +1,9 @@
+Field,Type,Null,Key,Default,Extra
+readers_id,varchar(13),NO,PRI,NULL,
+fname,varchar(14),YES,,NULL,
+mname,varchar(18),YES,,NULL,
+ltname,varchar(20),YES,,NULL,
+city,varchar(20),YES,,NULL,
+mobileno,varchar(40),YES,,NULL,
+occupation,varchar(24),YES,,NULL,
+dob,date,YES,,NULL,

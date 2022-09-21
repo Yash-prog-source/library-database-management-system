@@ -1,0 +1,4 @@
+Field,Type,Null,Key,Default,Extra
+bid,varchar(10),NO,PRI,NULL,
+bname,varchar(20),YES,,NULL,
+bdomain,varchar(20),YES,,NULL,

@@ -1,0 +1,6 @@
+Field,Type,Null,Key,Default,Extra
+account_id,varchar(6),NO,PRI,NULL,
+readers_id,varchar(6),YES,MUL,NULL,
+bid,varchar(18),YES,MUL,NULL,
+atype,varchar(30),YES,,NULL,
+astatus,varchar(28),YES,,NULL,
